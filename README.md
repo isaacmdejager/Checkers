@@ -19,3 +19,5 @@ To play, you type in the number corresponding the square you want a piece to mov
 
 One player's pieces are represented via 1s, and the other is represented via 2s.
 This game of checkers does not account for double jumps or kinging.
+
+The game ends when one player can no longer make any moves. That may be when they have no more pieces left to move, or all their pieces are locked.
