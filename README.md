@@ -6,21 +6,21 @@ a lot of its traction and we never developed the UI.
 But this is still a functioning checkers AI that you can play against. The grid is laid out in an 8x8. Every turn, it will print the table and prompt the user
 for two inputs: the piece you want to move and where to move it. Each square has a designiated number:
 
-0  1  2  3  4  5  6  7
+0  | 1  | 2  | 3  | 4  | 5  | 6  | 7
 
-8  9  10 11 12 13 14 15
+8  | 9  |10  | 11 | 12 | 13 | 14 | 15
 
-16 17 18 19 20 21 22 23
+16 | 17 | 18 | 19 | 20 | 21 | 22 | 23
 
-24 25 26 27 28 29 30 31
+24 | 25 | 26 | 27 | 28 | 29 | 30 | 31
 
-32 33 34 35 36 37 38 39
+32 | 33 | 34 | 35 | 36 | 37 | 38 | 39
 
-40 41 42 43 44 45 46 47
+40 | 41 | 42 | 43 | 44 | 45 | 46 | 47
 
-48 49 50 51 52 53 54 55
+48 | 49 | 50 | 51 | 52 | 53 | 54 | 55
 
-56 57 58 59 60 61 62 63
+56 | 57 | 58 | 59 | 60 | 61 | 62 | 63
 
 To play, you type in the number corresponding the square you want a piece to move from, and the number corresponding to the square you want said piece to mvoe to.
 
